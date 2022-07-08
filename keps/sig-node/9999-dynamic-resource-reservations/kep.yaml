@@ -1,0 +1,23 @@
+title: Dynamic Resource Reservations
+kep-number: 9999
+authors:
+  - "@danielfoehrKn"
+reviewers:
+  - TODO
+approvers:
+  - TODO
+prr-approvers:
+  - TODO
+owning-sig: sig-node
+status: TODO
+editor: TBD
+creation-date: 2022-07-8
+stage: alpha
+latest-milestone: TODO
+milestone:
+  alpha: TODO
+feature-gates:
+  - name: DynamicResourceReservations
+    components:
+      - kubelet
+disable-supported: true
